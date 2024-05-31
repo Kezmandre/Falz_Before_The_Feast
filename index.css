@@ -13,12 +13,14 @@ img{
 
 body{
     background: #1b828d20;
+    height: 100vh;
 }
 
 h3{
     text-align: center;
     padding: 20px;
     color: #1b828d;
+    font-size: 22px;
     line-height: 30px;
 
 }
